@@ -1,0 +1,4 @@
+/.env
+.idea
+.flake8
+/pddata
